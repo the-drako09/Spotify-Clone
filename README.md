@@ -7,4 +7,4 @@ This is my very first website hosted on GitHub Pages.
 - Shows my favorite pictures and links.
 
 ## How to view
-Go to: https://the-drako09.github.io/my-first-website/
+Go to: https://the-drako09.github.io/Spotify-Clone/
