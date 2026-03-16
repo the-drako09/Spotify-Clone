@@ -1,2 +1,10 @@
-# Spotify-Clone
-A web-based music player clone inspired by Spotify, built with modern web technologies. This project mimics the core UI/UX of Spotify, including playlists, song cards, responsive design, and interactive features. Ideal for practicing HTML, CSS, JavaScript, and frontend animations.
+# My First Website
+
+This is my very first website hosted on GitHub Pages.
+
+## About
+- Made with HTML, CSS, and JavaScript.
+- Shows my favorite pictures and links.
+
+## How to view
+Go to: https://the-drako09.github.io/my-first-website/
