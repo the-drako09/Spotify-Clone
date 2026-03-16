@@ -1,0 +1,223 @@
+.box {
+    margin: auto;
+    margin-top: 12px;
+    margin-right: 2px;
+    margin-left: 2px;
+    border-radius: 7px;
+    /* border: 2px solid red; */
+    background-color: #121212;
+}
+
+.library {
+    /* border: 2px solid red;  */
+    background-color: #121212;
+    height: 73vh;
+    width: 24vw;
+    /* margin-top: -200px; */
+}
+
+.leftpanel {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.rightbar {
+    height: 65px;
+    background-color: #0000004e;
+}
+
+.logo {
+    padding: 25px;
+}
+
+img {
+    filter: invert(1);
+}
+
+.lblogo {
+    height: 27px;
+    padding: 0px 25px;
+}
+
+.left ul {
+    list-style: none;
+}
+
+.left ul li {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+}
+
+.playlist {
+    /* background-color: #0000004e; */
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 5px;
+    gap: 93px;
+}
+
+.lib-cont {
+    border-radius: 7px;
+    width: 23vw;
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 14vh;
+    background-color: rgba(128, 128, 128, 0.179);
+}
+
+.ltxt1 {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px;
+}
+
+.ltxt2 {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px 15px;
+}
+
+.lc {
+    background-color: white;
+    padding: 7px 12px;
+    border-radius: 20px;
+    color: #121212;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 23px;
+    margin-left: 15px;
+    border: 1px solid white;
+}
+
+.signup {
+    margin-top: 3px;
+    background-color: transparent;
+    color: #535252;
+}
+
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 34px;
+    margin-top: 15px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    height: 45vh;
+    /* background-color: blue; */
+    margin-top: 60px;
+}
+
+.card {
+    border: solid transparent;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(82, 82, 82, 0.179);
+    border-radius: 3px;
+    margin-top: 5px;
+    margin-left: 25px;
+    height: 30vh;
+    width: 13vw;
+}
+
+.playlist1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.card1a {
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 15px;
+    margin-right: 80px;
+}
+
+.card1b {
+    color: #535252;
+    padding-right: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-left: 20px;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cred{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    /* background-color: yellow; */
+    height: 300px;
+}
+.lft{
+    margin: 40px;
+    column-gap: 130px;
+    display: flex;
+    height: 40px;
+    /* background-color: white; */
+}
+.end1{
+    border: solid transparent;
+    background-color: transparent;
+}
+.lftbox{
+gap: 15px;
+display: flex;
+flex-direction: column;
+align-items: start;
+}
+.ending{
+    width: 69vw;
+    margin: auto;
+    background-color:grey;
+    height: 2px;
+}
+.attherate{
+    color: #535252;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.libend{
+    /* background-color: yellow; */
+    height: 154px;
+}
+.libcred{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 9px;
+    row-gap: 20px;
+}
+.libcredend{
+    color: #535252;
+background-color: transparent;
+border: solid transparent;
+}
+.xtra{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.region{
+    width: 90px;
+margin-left: 20px;
+margin-top: 50px;
+display: flex;
+align-items: center;
+gap: 5px;
+background-color:#121212;
+border: 2px solid #535252;
+border-radius: 25px;
+padding: 10px;
+}

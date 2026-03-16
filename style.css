@@ -1,0 +1,114 @@
+* {
+    font-family: "Circular Std", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    justify-content: center;
+    /* border: 2px solid red; */
+    height: 100vh;
+}
+
+.left {
+    width: 24vw;
+    /* border: 2px solid rgb(51, 255, 0); */
+    height: 25vh;
+    background-color: #121212;
+}
+
+.right {
+    /* border: 2px solid red; */
+    width: 74vw;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    gap: 2px;
+}
+
+.Ylab {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.txtL {
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 5px;
+}
+
+.add {
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 5px;
+    padding-left: 100px
+}
+.leftrightbuttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+}
+.but1{
+    margin-top: 10px;margin-left:10px;
+    font-size: 18px;
+    padding: 5px 12px;
+    background-color: black;
+    color: grey;
+    border-radius: 50%;
+    border: solid transparent;
+}
+.barbut2{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+    padding:12px 25px;
+    border-radius: 30px;
+    border: solid transparent;
+}
+.tb1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 25px;
+}
+.tb2{
+    font-size: 16px;
+    margin-right: 23px;
+    font-weight: 600;
+    color: #535252;
+    background-color: transparent;
+    border: solid transparent;
+}
+.cover{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.lftbox1{
+    font-size: 18px;
+    font-weight: 600;
+}
+.lftbox2{
+    color: #535252;
+    margin-right: 30px;
+     font-size: 14px;
+    font-weight: 600;
+}
+.rgt{
+    display: flex;
+    gap: 35px;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+.rgtlogo img{
+    background: transparent;
+    padding: 15px;
+    height: 33px;
+}
